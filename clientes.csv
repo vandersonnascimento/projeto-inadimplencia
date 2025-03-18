@@ -1,0 +1,11 @@
+idade,salario,historico_credito,divida_total,inadimplente
+25,2000,bom,500,0
+40,5000,ruim,3000,1
+35,3000,razoavel,1000,0
+50,7000,bom,400,0
+23,1500,ruim,2500,1
+45,6000,razoavel,1500,0
+33,3500,bom,700,0
+29,2500,ruim,2800,1
+41,5200,bom,600,0
+38,4800,razoavel,1300,0
